@@ -19,6 +19,7 @@
 
 ## 性能/体验
 
+- [CSS动画](./experience/CSS动画.md)
 - [兼容性问题](./experience/兼容性问题.md)
 
 ## 质量
