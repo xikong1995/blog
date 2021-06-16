@@ -130,8 +130,6 @@ Web 技术飞速发展，但是绝大数技术人员并没有跟上其脚步，�
 
 表示当元素不面向屏幕时是否可见。如果我们把一个元素翻转 180 度，并且不想看到这个元素，那么我们将 `backface-visibility` 设为 `false` 即可。
 
-> `transform` 和 `transform-origin` 不在赘述，在[上一篇博文](https://blog.csdn.net/zhoulei1995/article/details/98785725)里有讲述。
-
 # 动画实例
 
 实践出真知，很多时候我们看了一些知识点，但由于没有结合实际运用，所以导致很快就忘了。这里我给出几个例子，来帮助大家巩固知识，加深印象。
@@ -498,7 +496,9 @@ next.addEventListener('click', function() {
 虽然 CSS3 的这些属性给予了我们很大的方便，但是如果我们滥用动画，页面的交互效果不仅没提高，反而由于卡顿影响了正常功能。 故有必要聊一聊动画的注意事项和优化。
 
 在讲优化技巧前，我们先回顾下浏览器的渲染过程。当然不同的渲染引擎，有不同的渲染过程。这里我们主要讲 Chrome 浏览器。
+
 ![webkit](https://img-blog.csdnimg.cn/20190810154318738.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob3VsZWkxOTk1,size_16,color_FFFFFF,t_70)
+
 1. 解析 HTML，生成 DOM 树；解析 CSS，生成 Style 树
 2. 合并  DOM 树和 Style 树，生成 Render 树
 3. 页面绘制
