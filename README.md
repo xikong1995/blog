@@ -6,7 +6,7 @@
 
 ## 推荐
 
-- [Web前端力荐书目](./recommend/Web前端力荐书目.md)
+- [Web 前端力荐书目](./recommend/Web前端力荐书目.md)
 
 ## 案例
 
@@ -15,13 +15,15 @@
 
 ## 效率
 
-- [monorepos&lerna&yarn]()
+- [monorepos、lerna 和 yarn]()
 
 ## 性能/体验
 
-- [CSS动画](./experience/CSS动画.md)
+- [CSS 动画](./experience/CSS动画.md)
 - [兼容性问题](./experience/兼容性问题.md)
 
 ## 质量
+
+- [XSS 和 CSRF](./quality/XSS和CSRF.md)
 
 ## 算法
