@@ -27,3 +27,16 @@
 - [XSS 和 CSRF](./quality/XSS和CSRF.md)
 
 ## 算法
+
+> 程序 = 数据结构 + 算法
+
+数据结构
+
+- [链表](./algorithm/linked-list.md)
+- [哈希表](./algorithm/hashtable.md)
+- [二叉树](./algorithm/binary-tree.md)
+
+经典算法
+- [排序](./algorithm/sort.md)
+- [回溯](./algorithm/backtracking.md)
+- [动态规划](./algorithm/dynamic-programming.md)
