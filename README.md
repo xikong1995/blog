@@ -4,31 +4,31 @@
 
 > 耐心之树，结黄金之果。
 
-## 推荐
+## 推荐/案例
 
-- [Web 前端力荐书目](./recommend/Web前端力荐书目.md)
-
-## 案例
-
+- [力荐书目](./case/力荐书目.md)
 - [微博爬虫](./case/微博爬虫.md)
 - [图片压缩](./case/图片压缩.md)
 
-## 效率
+## 效率/质量
 
-- [monorepos、lerna 和 yarn]()
+- [代码规范与约束]()
+- [Monorepos、Lerna 和 Yarn]()
+- [XSS 和 CSRF](./quality/XSS和CSRF.md)
 
 ## 性能/体验
 
 - [CSS 动画](./experience/CSS动画.md)
 - [兼容性问题](./experience/兼容性问题.md)
-
-## 质量
-
-- [XSS 和 CSRF](./quality/XSS和CSRF.md)
+- [性能优化之关键指标]()
+- [性能优化之传输层]()
+- [性能优化之渲染层]()
 
 ## 算法
 
 > 程序 = 数据结构 + 算法
+
+[力扣主页](https://leetcode-cn.com/u/zhoulei1995/)
 
 数据结构
 
