@@ -398,10 +398,11 @@ var maxProduct = function(nums) {
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200519232710336.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob3VsZWkxOTk1,size_16,color_FFFFFF,t_70)
 
-确实，我们上面看到的都是一些数学问题。接下来的我们联系生活中的场景来看看动态规划的应用。什么场景呢？大家感兴趣的 5 个字：money（钱）。
+确实，我们上面看到的都是一些数学问题。接下来的我们联系生活中的场景来看看动态规划的应用。什么场景呢？大家感兴趣的 money（钱）。
 
 ## 硬币
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020051923314185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob3VsZWkxOTk1,size_10,color_FFFFFF,t_70 =350x)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020051923314185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob3VsZWkxOTk1,size_10,color_FFFFFF,t_70)
 
 ### 题目
 
