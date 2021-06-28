@@ -24,6 +24,12 @@
 - [性能优化之传输层](./experience/性能优化之传输层.md)
 - [性能优化之渲染层](./experience/性能优化之渲染层.md)
 
+# 源码
+
+- [Vue 源码之 nextTick](./source/nextTick.md)
+- [Vue 源码之 computed 和 watch](./source/computed和watch.md)
+- [Vue Router 之 hash 与 history 模式](./source/hash与history模式.md)
+
 ## 算法
 
 > 程序 = 数据结构 + 算法
