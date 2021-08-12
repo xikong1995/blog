@@ -26,11 +26,12 @@
 - [性能优化-渲染层](./experience/性能优化之渲染层.md)
 - [前端监控](./experience/前端监控.md)
 
-# 框架与源码
+## 框架与源码
 
 - [Vue 源码之 nextTick](./source/nextTick.md)
 - [Vue 源码之 computed 和 watch](./source/computed和watch.md)
 - [Vue Router 之 hash 与 history 模式](./source/hash与history模式.md)
+- [Webpack loaders 与 Plugins](./source/webpack-senior.md)
 
 ## 算法
 
