@@ -46,6 +46,6 @@
 - [二叉树](./algorithm/binary-tree.md)
 
 经典算法
-- [排序](./algorithm/sort.md)
-- [回溯](./algorithm/backtracking.md)
+- [排序算法](./algorithm/sort.md)
+- [回溯算法](./algorithm/backtracking.md)
 - [动态规划](./algorithm/dynamic-programming.md)
